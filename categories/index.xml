@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | 地震“学”</title>
+    <link>https://seismo-learn.org/categories/</link>
+      <atom:link href="https://seismo-learn.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020–2021, seismo-learn.</copyright>
+    <image>
+      <url>https://seismo-learn.org/images/icon_hu87f995c79e6e1fece146ad5362c6d8c3_53652_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://seismo-learn.org/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
