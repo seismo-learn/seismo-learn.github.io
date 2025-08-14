@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://seismo-learn.org/sitemap.xml
